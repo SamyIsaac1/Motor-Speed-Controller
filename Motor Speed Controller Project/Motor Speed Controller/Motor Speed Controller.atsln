@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Motor Speed Controller", "Motor Speed Controller\Motor Speed Controller.cproj", "{A13474D2-15CE-4C24-871A-DC375D71261D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13474D2-15CE-4C24-871A-DC375D71261D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A13474D2-15CE-4C24-871A-DC375D71261D}.Debug|AVR.Build.0 = Debug|AVR
+		{A13474D2-15CE-4C24-871A-DC375D71261D}.Release|AVR.ActiveCfg = Release|AVR
+		{A13474D2-15CE-4C24-871A-DC375D71261D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
